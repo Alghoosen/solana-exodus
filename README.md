@@ -1,11 +1,5 @@
-# PLEASE READ: This repo is now a public archive
-
-This repo still exists in archived form, feel free to fork any reference
-implementations it still contains.
-
-See Agave, the Solana validator implementation from Anza: https://github.com/anza-xyz/agave
-
----
+<img width="514" alt="Screenshot 2025-01-27 at 1 50 20 PM" src="https://github.com/user-attachments/assets/acd4db47-14d5-414f-8c19-a6c75d8752b8" />
+)
 
 <p align="center">
   <a href="https://solana.com">
